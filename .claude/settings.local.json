@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s \"c:\\\\Users\\\\User\\\\Desktop\\\\comfy\")",
+      "mcp__gemini-design-mcp__modify_frontend",
+      "Bash(npm install:*)"
+    ]
+  }
+}
